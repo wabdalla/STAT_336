@@ -1,0 +1,70 @@
+---
+title: "Summary Statistics"
+author: "Widad Abdalla"
+date: "2026-08-28"
+output: html_document
+---
+
+
+
+1. load tidyverse package.
+
+```{r q1, message=FALSE, warning=FALSE}
+
+
+
+```
+
+2. Read in the dataset `heart_study`.
+
+```{r q2, message=FALSE, warning=FALSE}
+
+
+
+```
+
+
+3. For the variables: 
+    systolic blood pressure,
+    cigarettes per day, 
+    body mass index, 
+    heart rate, and
+    glucose level
+    Compute the following summary statistics 
+    by Gender:
+    1. Count the number of subjects
+    2. Mean
+    3. Standard Deviation
+    4. Minimum
+    5. Median 
+    6. Maximum
+
+```{r q3, message=FALSE, warning=FALSE}
+
+
+
+
+```
+
+
+4. For the variables: 
+    systolic blood pressure,
+    cigarettes per day, 
+    body mass index, 
+    heart rate, and
+    glucose level
+    Compute the following summary statistics 
+    by age group:
+    1. Count the number of subjects
+    2. Mean
+    3. Standard Deviation
+    4. Minimum
+    5. Median 
+    6. Maximum
+    
+```{r q4, message=FALSE, warning=FALSE}
+
+
+
+```
+
