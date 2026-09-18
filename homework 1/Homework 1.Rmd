@@ -1,0 +1,131 @@
+---
+title: "Homework # 1"
+author: "YOUR NAME HERE"
+date: "2026-09-17"
+output: html_document
+---
+
+
+### Loading Package
+
+
+```{r packages, message=FALSE, warning=FALSE}
+library(tidyverse)
+
+```
+
+
+Note: To receive credit, codes must follow the structure discussed in class. 
+
+### Exercise 3
+
+Write the code to recreate the correct output on Exercise 3. 
+
+```{r ex3, message=FALSE, warning=FALSE}
+
+
+
+
+```
+
+
+### Exercise 4
+
+Write the code to recreate the correct output on Exercise 4. 
+
+```{r ex4, message=FALSE, warning=FALSE}
+
+
+
+```
+
+
+
+### Exercise 5
+
+Write the code to get the output for Exercise 5. 
+
+```{r ex5, message=FALSE, warning=FALSE}
+
+
+
+
+```
+
+
+### Exercise 6
+
+Write the code to recreate the ANOVA table on Exercise 6. 
+
+```{r ex6, message=FALSE, warning=FALSE}
+
+
+
+
+
+```
+
+
+### Exercise 7
+
+Write the code to recreate the ANOVA table on Exercise 7. 
+
+```{r ex7, message=FALSE, warning=FALSE}
+
+
+
+
+
+```
+
+
+### Exercise 8
+
+Write the code to recreate the ANOVA table on Exercise 8. 
+
+```{r ex8, message=FALSE, warning=FALSE}
+
+
+
+
+
+```
+
+
+### Exercise 9
+
+Write the code to get the ANOVA table on Exercise 9.
+
+```{r ex9, message=FALSE, warning=FALSE}
+
+
+
+
+
+
+
+
+```
+
+### Exercise 10
+
+Write the code to get the output for Exercise 10.
+
+```{r ex10, message=FALSE, warning=FALSE}
+
+ 
+
+```
+
+
+### Exercise 11
+
+Write the code to get the output for Exercise 11.
+
+
+
+```{r ex11, message=FALSE, warning=FALSE}
+
+
+
+```
