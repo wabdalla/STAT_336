@@ -1,0 +1,17 @@
+Nurse,Time_of_Day,visit
+A,Early Morning,37
+B,Early Morning,41
+C,Early Morning,35
+D,Early Morning,28
+A,Late Morning,28
+B,Late Morning,30
+C,Late Morning,41
+D,Late Morning,18
+A,Early Afternoon,30
+B,Early Afternoon,27
+C,Early Afternoon,34
+D,Early Afternoon,20
+A,Late Afternoon,23
+B,Late Afternoon,20
+C,Late Afternoon,30
+D,Late Afternoon,14
