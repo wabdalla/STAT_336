@@ -1,0 +1,41 @@
+Patient,Condition,number_tics
+1,Baseline,249
+2,Baseline,1095
+3,Baseline,183
+4,Baseline,570
+5,Baseline,398
+6,Baseline,426
+7,Baseline,524
+8,Baseline,395
+9,Baseline,513
+10,Baseline,332
+1,During Gum Chewing,108
+2,During Gum Chewing,693
+3,During Gum Chewing,119
+4,During Gum Chewing,363
+5,During Gum Chewing,125
+6,During Gum Chewing,156
+7,During Gum Chewing,226
+8,During Gum Chewing,199
+9,During Gum Chewing,363
+10,During Gum Chewing,203
+1,zero to thirty minutes,93
+2,zero to thirty minutes,659
+3,zero to thirty minutes,88
+4,zero to thirty minutes,262
+5,zero to thirty minutes,100
+6,zero to thirty minutes,154
+7,zero to thirty minutes,206
+8,zero to thirty minutes,180
+9,zero to thirty minutes,299
+10,zero to thirty minutes,156
+1,thirty to sixty minutes,226
+2,thirty to sixty minutes,856
+3,thirty to sixty minutes,202
+4,thirty to sixty minutes,476
+5,thirty to sixty minutes,306
+6,thirty to sixty minutes,299
+7,thirty to sixty minutes,449
+8,thirty to sixty minutes,370
+9,thirty to sixty minutes,350
+10,thirty to sixty minutes,298
