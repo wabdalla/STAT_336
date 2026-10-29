@@ -1,0 +1,91 @@
+---
+title: 'Homework # 2'
+author: "YOUR NAME HERE"
+date: "2026-11-04"
+output: html_document
+---
+
+### Loading Package
+
+
+```{r packages, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(car)
+
+```
+
+### Exercise 1
+
+Write the code to recreate the requested output for Exercise 1. 
+
+```{r ex1, message=FALSE, warning=FALSE}
+
+
+
+
+```
+
+
+### Exercise 2
+
+Write the code to recreate the requested output for Exercise 2. 
+
+```{r ex2, message=FALSE, warning=FALSE}
+
+
+
+
+```
+
+
+
+### Exercise 7a
+
+Write the codes for Exercise 7a.   
+
+```{r ex7a, message=FALSE, warning=FALSE}
+
+
+
+
+
+```
+
+
+### Exercise 7b
+
+Write the codes for Exercise 7b.
+
+```{r ex7b, message=FALSE, warning=FALSE}
+
+
+
+
+```
+
+
+### Exercise 7c
+
+Write the codes for Exercise 7c.
+
+```{r ex7c, message=FALSE, warning=FALSE}
+
+
+
+
+```
+
+
+### Exercise 7d
+
+Write the codes for Exercise 7d.  
+
+```{r ex7d, message=FALSE, warning=FALSE}
+
+
+
+
+
+
+```
+
