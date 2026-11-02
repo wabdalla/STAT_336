@@ -1,0 +1,62 @@
+---
+title: "Exam 2"
+author: "YOUR NAME HERE"
+date: "2026-11-02"
+output: html_document
+---
+
+
+### Loading Package
+
+
+```{r packages, message=FALSE, warning=FALSE}
+
+library(tidyverse)
+library(car)
+
+```
+
+
+Note: To receive credit, codes must follow the structure discussed in class. 
+
+### Problem 1
+
+Write the codes that answer Problem 1 below. 
+
+```{r pr1, message=FALSE, warning=FALSE}
+
+
+
+```
+
+
+### Problem 2
+
+Write the codes that answer Problem 2 below. 
+
+```{r pr2, message=FALSE, warning=FALSE}
+
+
+```
+
+
+
+### Problem 3
+
+Write the codes that answer Problem 3 below. 
+
+```{r pr3, message=FALSE, warning=FALSE}
+
+
+
+```
+
+
+### Problem 4
+
+Write the codes that answer Problem 4 below. 
+
+```{r pr4, message=FALSE, warning=FALSE}
+
+
+```
